@@ -1,4 +1,4 @@
-##Optic Disc Detection and Localization
+## Optic Disc Detection and Localization
 
 The optic disc is a critical area for detecting glaucoma, as this condition primarily affects the optic disc and its surrounding areas. To improve the efficiency of glaucoma detection, I developed a simple yet effective threshold-based algorithm for automatically detecting the optic disc in fundus images.
 
